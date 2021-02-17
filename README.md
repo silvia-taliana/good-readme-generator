@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/License-MIT-Green)
 
   ## Description
-The goal of this project is to create a command-line application that allows the user to generate a README.md file quickly and easily. The project achieves this goal by asking the user to imput the key points they require for their README file into the command-line, which then slots in this information into a pre-written README template ready to use. 
+The goal of this project is to create a command-line application that allows the user to generate a README.md file quickly and easily. The project achieves this goal by asking the user to imput the key points they require for their README file into the command-line, which then slots in this information into a pre-written README template ready to use. To view a walkthrough video explaining how to use this application, please click [here](https://drive.google.com/file/d/1Z99Le7ToNQj_8U_4Zd0ZmVhUa0HiPNXJ/view).
 
 ## Table of Contents 
 
@@ -18,7 +18,9 @@ The goal of this project is to create a command-line application that allows the
 The technologies used for this project include Node.js, npm inquirer package and package.json. Node.js will be required to be installed before using this application. 
 
 ## Usage
-This application is easily run by opening the file index.js, entering the command ```node index.js``` into the command-line and proceeding to answer the questions that follow. This is an example of how it looks at this stage ![image](assets/ques-screenshot.jpg) When all the questions have been answered, a README.md file will be generated with all of the answers to these questions. 
+This application is easily run by opening the file index.js, entering the command ```node index.js``` into the command-line and proceeding to answer the questions that follow. This is an example of how it looks at this stage 
+![image](assets/ques-screenshot.jpg) 
+When all the questions have been answered, a README.md file will be generated with all of the answers to these questions. 
 
 ## License 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files(the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and / or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
